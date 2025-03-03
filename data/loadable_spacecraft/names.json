@@ -1,0 +1,212 @@
+{
+    "ACRIMSAT":{
+        "file": "ACRIMSAT.fbx",
+        "name": "_root",
+        "label": "001",
+        "minStand": 20,
+        "maxStand": 100
+    },
+    "ASTRA": {
+        "file": "astra.fbx",
+        "name": "astra",
+        "label": "002",
+        "minStand": 250,
+        "maxStand": 300
+    },
+    "DEEP SPACE 1": {
+        "file": "deepSpace1.fbx",
+        "name": "DeepSpace1",
+        "label": "003",
+        "minStand": 90,
+        "maxStand": 120
+    },
+    "CASSINI 66": {
+        "file": "Cassini_66.fbx",
+        "name": "Cassini66",
+        "label": "004",
+        "minStand": 280,
+        "maxStand": 500
+    },
+    "AQUA": {
+        "file": "Aqua13.fbx",
+        "name": "Aqua13",
+        "label": "005",
+        "minStand": 280,
+        "maxStand": 400
+    },
+    "AURA": {
+        "file": "aura.fbx",
+        "name": "Aura",
+        "label": "006",
+        "minStand": 350,
+        "maxStand": 400
+    },
+    "CLUSTER 2": {
+        "file": "Cluster2.fbx",
+        "name": "Cluster",
+        "label": "008",
+        "minStand": 500,
+        "maxStand": 600
+    },
+    "DAWN": {
+        "file": "Dawn_19.fbx",
+        "name": "Dawn",
+        "label": "009",
+        "minStand": 100,
+        "maxStand": 250
+    },
+    "EPOXI": {
+        "file": "EPOXI_68.fbx",
+        "name": "EPOXI",
+        "label": "010",
+        "minStand": 100,
+        "maxStand": 120
+    },
+    "GALILEO": {
+        "file": "Galileo.fbx",
+        "name": "Galileo",
+        "label": "011",
+        "minStand": 200,
+        "maxStand": 400
+    },
+    "GRACE": {
+        "file": "Grace.fbx",
+        "name": "Grace",
+        "label": "012",
+        "minStand": 130,
+        "maxStand": 180
+    },
+    "IBEX": {
+        "file": "ibex.fbx",
+        "name": "IBEX",
+        "label": "013",
+        "minStand": 40,
+        "maxStand": 150
+    },
+    "JUNO": {
+        "file": "Juno.fbx",
+        "name": "Juno",
+        "label": "014",
+        "minStand": 280,
+        "maxStand": 340
+    },
+    "KEPLER": {
+        "file": "kepler.fbx",
+        "name": "Kepler",
+        "label": "015",
+        "minStand": 100,
+        "maxStand": 250
+    },
+    "LRO": {
+        "file": "LRO_35.fbx",
+        "name": "LRO",
+        "label": "016",
+        "minStand": 140,
+        "maxStand": 200
+    },
+    "MAGELLAN": {
+        "file": "Magellan_16.fbx",
+        "name": "Magellan",
+        "label": "017",
+        "minStand": 190,
+        "maxStand": 300
+    },
+    "MARS ODYSSEY": {
+        "file": "MarsOdyssey.fbx",
+        "name": "Odyssey",
+        "label": "018",
+        "minStand": 210,
+        "maxStand": 320
+    },
+    "MESSENGER": {
+        "file": "MESSENGER.fbx",
+        "name": "MESSENGER",
+        "label": "019",
+        "minStand": 190,
+        "maxStand": 290
+    },
+    "MGS": {
+        "file": "MGS.fbx",
+        "name": "MGS",
+        "label": "020",
+        "minStand": 200,
+        "maxStand": 260
+    },
+    "MRO": {
+        "file": "MRO_13.fbx",
+        "name": "MRO",
+        "label": "021",
+        "minStand": 150,
+        "maxStand": 260
+    },
+    "NEAR": {
+        "file": "NEAR_07.fbx",
+        "name": "NEAR",
+        "label": "022",
+        "minStand": 100,
+        "maxStand": 200
+    },
+    "NPP": {
+        "file": "NPP_16.fbx",
+        "name": "NPP",
+        "label": "023",
+        "minStand": 140,
+        "maxStand": 200
+    },
+    "PIONEER": {
+        "file": "Pioneer.fbx",
+        "name": "Pioneer",
+        "label": "024",
+        "minStand": 130,
+        "maxStand": 200
+    },
+    "ROSETTA": {
+        "file": "Rosetta.fbx",
+        "name": "Rosetta",
+        "label": "025",
+        "minStand": 300,
+        "maxStand": 360
+    },
+    "SENTINEL 6": {
+        "file": "Sentinel6.fbx",
+        "name": "Sentinel6",
+        "label": "026",
+        "minStand": 140,
+        "maxStand": 190
+    },
+    "STARDUST": {
+        "file": "Stardust_35.fbx",
+        "name": "Stardiust",
+        "label": "027",
+        "minStand": 140,
+        "maxStand": 190
+    },
+    "TDRS": {
+        "file": "tdrs.fbx",
+        "name": "TDRS",
+        "label": "028",
+        "minStand": 300,
+        "maxStand": 400
+    },
+    "THEMIS": {
+        "file": "THEMIS.fbx",
+        "name": "Themis",
+        "label": "029",
+        "minStand": 80,
+        "maxStand": 90
+    },
+    "ULYSSES": {
+        "file": "Ulysses_14.fbx",
+        "name": "Ulysses",
+        "label": "030",
+        "minStand": 350,
+        "maxStand": 500
+    },
+    "VOYAGER": {
+        "file": "Voyager_17.fbx",
+        "name": "Voyager",
+        "label": "031",
+        "minStand": 300,
+        "maxStand": 400
+    }
+}

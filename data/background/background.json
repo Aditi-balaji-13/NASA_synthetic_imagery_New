@@ -1,0 +1,198 @@
+{
+    "Apollo-11-all-photos-0003.jpg": {
+        "in_image": true,
+        "x": 1700,
+        "y": 250,
+        "z": -3,
+        "label": "001"
+    },
+    "DdCe2-XX0AAEd0S.jpg":{
+        "in_image": false,
+        "x": 1,
+        "y": -3,
+        "z": 0,
+        "label": "002"
+    },
+    "Earth-moon-from-ISS-Nick-Hague.jpg":{
+        "in_image": false,
+        "x": -2,
+        "y": -3,
+        "z": 0,
+        "label": "003"
+    },
+    "earth-rise-symbol-right.jpg":{
+        "in_image": false,
+        "x": 1,
+        "y": 1,
+        "z": -3,
+        "label": "004"
+    },
+    "ISS-42_Earth_from_the_ISS.jpg":{
+        "in_image": false,
+        "x": -1,
+        "y": 1,
+        "z": -3,
+        "label": "005"
+    },
+    "iss066e161042.jpg":{
+        "in_image": false,
+        "x": -4,
+        "y": -1,
+        "z": -1,
+        "label": "006"
+    },
+    "iss066e161292.jpg":{
+        "in_image": false,
+        "x": -2,
+        "y": -3,
+        "z": 2,
+        "label": "007"
+    },
+    "iss067e006147.jpg":{
+        "in_image":false,
+        "x": 0,
+        "y": 1,
+        "z": 1,
+        "label": "008"
+    },
+    "iss067e006366.jpg":{
+        "in_image": false,
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "label": "009"
+    },
+    "iss067e029174.jpg":{
+        "in_image": false,
+        "x": 1,
+        "y": 1,
+        "z": 0,
+        "label": "010"
+    },
+    "iss067e033563.jpg":{
+        "in_image": false,
+        "x":-1,
+        "y": -1,
+        "z": 3,
+        "label": "011"
+    },
+    "iss067e034812.jpg":{
+        "in_image": false,
+        "x":0,
+        "y":3,
+        "z":-1,
+        "label": "012"
+    },
+    "iss067e034832.jpg":{
+        "in_image": false,
+        "x":-1,
+        "y":1,
+        "z":-1,
+        "label": "013"
+    },
+    "iss067e035797.jpg":{
+        "in_image": true,
+        "x":0,
+        "y":260,
+        "z":900,
+        "label": "014"
+    },
+    "iss067e035805.jpg":{
+        "in_image": false,
+        "x":0,
+        "y":3,
+        "z":-1,
+        "label": "015"
+    },
+    "iss067e035819.jpg":{
+        "in_image": true,
+        "x":500,
+        "y":5,
+        "z":-3,
+        "label": "016"
+    },
+    "iss067e035826.jpg":{
+        "in_image": false,
+        "x":3,
+        "y":1,
+        "z":-1,
+        "label": "017"
+    },
+    "iss067e036267.jpg":{
+        "in_image": true,
+        "x":150,
+        "y":5,
+        "z":-2,
+        "label": "018"
+    },
+    "iss067e036271.jpg":{
+        "in_image": true,
+        "x":500,
+        "y":350,
+        "z":-10,
+        "label": "019"
+    },
+    "iss067e099363.jpg":{
+        "in_image": false,
+        "x":1,
+        "y":0,
+        "z":1,
+        "label": "020"
+    },
+    "iss067e099364.jpg":{
+        "in_image": false,
+        "x":1,
+        "y":1,
+        "z":-2,
+        "label": "021"
+    },
+    "iss067e123467.jpg":{
+        "in_image": false,
+        "x":1,
+        "y":2,
+        "z":4,
+        "label": "022"
+    },
+    "iss067e124177.jpg":{
+        "in_image": true,
+        "x":220,
+        "y":150,
+        "z":-3,
+        "label": "023"
+    },
+    "iss067e124188.jpg":{
+        "in_image": true,
+        "x":470,
+        "y":280,
+        "z":-2,
+        "label": "024"
+    },
+    "iss067e139457.jpg":{
+        "in_image": false,
+        "x":0,
+        "y":-1,
+        "z":2,
+        "label": "025"
+    },
+    "main_1500.jpg":{
+        "in_image": false,
+        "x":-1,
+        "y":-1,
+        "z":2,
+        "label": "026"
+    },
+    "sky.jpg":{
+        "in_image": false,
+        "x":0,
+        "y":0,
+        "z":0,
+        "label": "027"
+    },
+    "sunrise4.jpg":{
+        "in_image": false,
+        "x":0,
+        "y":2,
+        "z":-3,
+        "label": "028"
+    }
+}

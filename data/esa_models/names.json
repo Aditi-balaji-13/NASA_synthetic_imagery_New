@@ -1,0 +1,155 @@
+{
+    "BEPI MMO":{
+        "file": "bepi_mmo.fbx",
+        "name": "bepi_mmo_undeployed",
+        "label": "032",
+        "minStand": 400,
+        "maxStand": 500
+    },
+    "SM MMO": {
+        "file": "SM_MMO.fbx",
+        "name": "SM_MMO_02",
+        "label": "033",
+        "minStand": 300,
+        "maxStand": 500
+    },
+    "BEPI MPO": {
+        "file": "bepi_MPO.fbx",
+        "name": "bepi_mpo_2020",
+        "label": "034",
+        "minStand": 100,
+        "maxStand": 150
+    },
+    "SM MTM": {
+        "file": "SM_MTM.fbx",
+        "name": "SM_MTM",
+        "label": "035",
+        "minStand": 300,
+        "maxStand": 500
+    },
+    "CHEOPS LP": {
+        "file": "CHEOPS_LP_01.fbx",
+        "name": "Mesh.040",
+        "label": "036",
+        "minStand": 50,
+        "maxStand": 100
+    },
+    "DOUBLE STAR": {
+        "file": "double_star.fbx",
+        "name": "Mesh.048",
+        "label": "037",
+        "minStand": 70,
+        "maxStand": 120
+    },
+    "GAIA": {
+        "file": "gaia.fbx",
+        "name": "Mesh.050",
+        "label": "038",
+        "minStand": 50,
+        "maxStand": 60
+    },
+    "GIOTTO": {
+        "file": "giotto.fbx",
+        "name": "Mesh.051",
+        "label": "039",
+        "minStand": 40,
+        "maxStand": 80
+    },
+    "HERSCHEL": {
+        "file": "herschel.fbx",
+        "name": "Mesh.053",
+        "label": "040",
+        "minStand": 70,
+        "maxStand": 120
+    },
+    "HUYGENS": {
+        "file": "huygens.fbx",
+        "name": "Mesh",
+        "label": "041",
+        "minStand": 40,
+        "maxStand": 100
+    },
+    "JUICE": {
+        "file": "juice.fbx",
+        "name": "Mesh.001",
+        "label": "042",
+        "minStand": 130,
+        "maxStand": 180
+    },
+    "LISA": {
+        "file": "lisa.fbx",
+        "name": "Mesh.006",
+        "label": "043",
+        "minStand": 40,
+        "maxStand": 100
+    },
+    "MARS EXPRESS": {
+        "file": "mars_express.fbx",
+        "name": "Mesh.007",
+        "label": "044",
+        "minStand": 280,
+        "maxStand": 340
+    },
+    "PLANK": {
+        "file": "plank.fbx",
+        "name": "Mesh.008",
+        "label": "045",
+        "minStand": 60,
+        "maxStand": 150
+    },
+    "SM PROBA 2": {
+        "file": "sm_proba2.fbx",
+        "name": "Mesh.009",
+        "label": "046",
+        "minStand": 40,
+        "maxStand": 100
+    },
+    "PROBA 3 SCS": {
+        "file": "proba_3_scs.fbx",
+        "name": "Mesh.012",
+        "label": "047",
+        "minStand": 40,
+        "maxStand": 80
+    },
+    "PROBA 3 OCS": {
+        "file": "proba_3_ocs.fbx",
+        "name": "Mesh.013",
+        "label": "048",
+        "minStand": 40,
+        "maxStand": 80
+    },
+    "PIEZASNOUVS": {
+        "file": "piezasnouvs.fbx",
+        "name": "Mesh.014",
+        "label": "049",
+        "minStand": 100,
+        "maxStand": 200
+    },
+    "SOHO": {
+        "file": "soho.fbx",
+        "name": "Mesh.015",
+        "label": "050",
+        "minStand": 80,
+        "maxStand": 120
+    },
+    "TGO EDM": {
+        "file": "tgo_edm.fbx",
+        "name": "Mesh.598",
+        "label": "051",
+        "minStand": 150,
+        "maxStand": 260
+    },
+    "VENUS EXPRESS": {
+        "file": "venus_express.fbx",
+        "name": "Mesh.599",
+        "label": "052",
+        "minStand": 40,
+        "maxStand": 10
+    },
+    "XMM Newton": {
+        "file": "xMM_Newton.fbx",
+        "name": "Mesh.600",
+        "label": "053",
+        "minStand": 140,
+        "maxStand": 200
+    }

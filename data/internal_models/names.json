@@ -1,0 +1,38 @@
+{
+    "FALCON1":{
+    "file": "falcon1.fbx",
+    "name": "falcon1",
+    "label": "999",
+    "minStand": 50,
+    "maxStand": 100
+    },    
+    "CYGNUS":{
+    "file": "cygnus.fbx",
+    "name": "cygnus",
+    "label": "998",
+    "minStand": 130,
+    "maxStand": 200
+    },    
+    "FIREFLY":{
+        "file": "firefly.fbx",
+        "name": "firefly_0",
+        "label": "997",
+        "minStand": 20,
+        "maxStand": 160
+    },
+    "r520000-301": {
+        "file": "r520000-301.fbx",
+        "name": "r520000-301",
+        "label": "996",
+        "minStand": 20,
+        "maxStand": 30
+    },
+    "r530000-301":{
+	"file": "r530000-301.fbx",
+	"name": "r530000-301",
+	"label": "995",
+	"minStand": 20,
+	"maxStand": 30
+    }
+
+}
